@@ -1,0 +1,52 @@
+.header-menu{
+    background-color: #ffae10;
+    color: #fff;
+    font-size: 18px;
+}
+
+.navbar-inner {
+    background:transparent;
+}
+.espaco-topo{
+    margin-top: 0px;
+    color: #fff;
+}
+.logo-small {
+    color: #ffae10;
+    font-size: 50px;
+}
+.logo {
+    color: #ffae10;
+    font-size: 200px;
+}
+
+#mainNav{
+	/*background:rgba(100, 50, 200, 25%); */
+	background: rgba(0, 0, 0, 25%);
+}
+#mainNav:hover{
+	/*background:rgba(100, 50, 200, 100%);*/
+	background: rgba(0, 0, 0, 50%);
+	transition: 0.5s;
+}
+/*.gallery-button{
+    display:block;
+    object-fit: scale-down;  
+    width: 100%;
+    height: 100%;
+    text-indent:-9000em;
+    overflow:hidden;
+    background:url("../imagens/carousel/none.png") no-repeat;
+}*/
+
+.outra{
+    width: 200px;
+    height: 200px;
+    /*box-shadow: 5px 5px 2px ;*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.596), 0 6px 20px 0 rgba(0, 0, 0, 0.623);
+    border: solid black 2px; 
+    border-radius: 25px; 
+}
+
+
+
